@@ -20,10 +20,10 @@ title                    : "Dev Blog"
 title_separator          : "-"
 subtitle                 : "JMespoir"
 name                     : "Jaemin Park"
-description              : "An amazing website."
+description              : "Newbie Developer"
 url                      : "https://jmespoir.github.io"
-baseurl                  : "/blog"
-repository               : "jmespoir/"
+baseurl                  : # "/blog"
+repository               : # "jmespoir/"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/jmespoir"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +140,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/jmespoir"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
