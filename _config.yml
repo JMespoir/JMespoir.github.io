@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jaemin Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Newbie Develper"
+  location         : "KR-DAEGU-KNU"
+  email            : "rtppee@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
